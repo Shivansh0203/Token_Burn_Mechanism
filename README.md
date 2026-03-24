@@ -1,4 +1,3 @@
-# Token_Burn_Mechanism
 
 # 🔥 Token Burn Mechanism (Soroban Smart Contract)
 
@@ -61,9 +60,7 @@ Token burning is commonly used in blockchain ecosystems to control inflation, in
 
 ## 🔗 Deployed Smart Contract Link
 
-XXX
-
-*(Replace with actual deployed contract address or explorer link)*
+https://stellar.expert/explorer/testnet/contract/CCJZ76Y5Y3JDI224Y6V5IEJ3E7YBTXQTNGCTON7B3BSA6JF6GRHLE7QY
 
 ---
 
@@ -88,4 +85,4 @@ XXX
 
 ## 👨‍💻 Author
 
-Your Name
+SHIVANSH THAKUR
