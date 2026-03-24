@@ -7,6 +7,9 @@ This project implements a basic Token Burn Mechanism using Soroban smart contrac
 
 Token burning is commonly used in blockchain ecosystems to control inflation, increase scarcity, and potentially improve token value over time.
 
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/a838bc4c-2a19-4b40-b5b3-806ed2a0f685" />
+
+
 ---
 
 ## ⚙️ What It Does
